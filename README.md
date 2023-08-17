@@ -7,5 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Solución de laravel/passport
+## Solución de laravel/passport
 https://stackoverflow.com/questions/51475248/composer-unable-to-install-laravel-passport
